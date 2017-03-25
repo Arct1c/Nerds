@@ -1,1 +1,1 @@
-Project of the "Nerds" web studio website.
+Project of "Nerds" web studio website.
